@@ -1,0 +1,10 @@
+package linkedlist;
+
+public class Linkedlist {
+	Node head = null;
+	public void insert(Node n) {
+		if(head==null) {
+			head=n;
+		}
+	}
+}
