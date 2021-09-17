@@ -17,9 +17,6 @@ public class Linkedlist {
 			n1.next=n;
 		}
 	}
-	public void delete(int index) {
-		
-	}
 
 
 	public void show() {
