@@ -7,6 +7,7 @@ public class Linkedlist {
 		n.data= data;
 		n.next= null;
 		System.out.println("my fist change");
+		System.out.println("my branch change");
 		if (head==null) {
 			head=n;
 		}
