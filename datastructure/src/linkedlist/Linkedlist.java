@@ -6,6 +6,7 @@ public class Linkedlist {
 		Node n = new Node();
 		n.data= data;
 		n.next= null;
+		System.out.println("my fist change");
 		if (head==null) {
 			head=n;
 		}
